@@ -16,9 +16,9 @@
 ```
 ねえ、聞いた？ [今いるrepo](https://github.com/F69-js/F69-js)って特別な場所らしいよ（笑）
 ---
-名前:F69-js(name:F69-js)
-別名:`F69js.core.min.js`
-言語:
+名前:F69-js(name:F69-js)  
+別名:`F69js.core.min.js`  
+言語:  
  - html (*Hyper Text Markup Language*)
  * [css (*Cascading Style Sheets*)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
@@ -40,8 +40,7 @@
  - > npm package is [here](https://www.npmjs.com/package/fcce-v2)
  3. [F69-js:BitGate(CAD)](https://github.com/f69-js/BitGate)
 ***
-- リンク
-[minecraft]("https://www.xbox.com/ja-JP/play/user/F69minrcraft")
+- リンク [minecraft](https://www.xbox.com/ja-JP/play/user/F69minrcraft)
 ---
 ## 追加:「`I wrote main.js over the 100KB for 1 Addon.`(説明欄)`」を表す画像
 ![image](./images/desc.png)
