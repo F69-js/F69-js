@@ -49,4 +49,4 @@
 _プロジェクトのバグ報告、機能追加などはgithubの`issues`および`pull request`にお願いします。
 **可能なかぎり**修正や機能追加いたします。_
 ---
-**~以上、[F69-js](https://github.com/F69-js) [自己紹介(README)](https://github.com/F69-js/F69-js)でした~**
+**\~以上、[F69-js(F69min~e~**r**craft)の](https://github.com/F69-js) [自己紹介(README)](https://github.com/F69-js/F69-js)でした\~**
