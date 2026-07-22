@@ -1,9 +1,18 @@
 # Hi, There...
 ---
-![F69minrcraft's Image](./images/skin1)
+![F69minrcraft's Image](./images/skin1.png)
 ---
 ```json
-...
+{"info":
+    {
+        "-4294967295":{
+            "name":"F69minrcraft",
+            "description":"An ordinary Minecraft add-on creator and web application programmer (as a hobby).",
+            "languages":["html","css","javascript","json","md","etc"],
+            "warning":"name [6] is not 'e'. name [6] is 'r'".
+        }
+    }
+}
 ```
 ねえ、聞いた？ [今いるrepo](https://github.com/F69-js/F69-js)って特別な場所らしいよ（笑）
 ---
