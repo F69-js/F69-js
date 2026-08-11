@@ -1,6 +1,6 @@
 # Hi, There...
 ---
-![F69minrcraft's Image](./images/skin1.png)
+![F69minrcraft's Image](./images/skin1_v2.png)
 ---
 ```json
 {"info":
