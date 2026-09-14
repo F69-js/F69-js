@@ -1,12 +1,12 @@
 # Hi, There...
 ---
-![F69minrcraft's Image](./images/skin1_v2.png)
+![F69.js's Image](./images/skin1_v2.png)
 ---
 ```json
 {"info":
     {
         "-4294967295":{
-            "name":"F69minrcraft",
+            "name":"F69.js",
             "description":"An ordinary Minecraft add-on creator and web application programmer (as a hobby).",
             "languages":["html","css","javascript","json","md","etc"],
             "warning":"name [6] is not 'e'. name [6] is 'r'".
